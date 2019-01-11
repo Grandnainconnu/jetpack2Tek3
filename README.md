@@ -1,8 +1,9 @@
 # jetpack2Tek3
-School project, for Epitech.
+
+Mark: 13/13
 
 # Compilation
-make && make clean
+$> make fclean && make
 
-# Running
+# Usage
 ./serverJ2T3 [-h, --help] -g gravity -p port -m map
