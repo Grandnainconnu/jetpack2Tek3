@@ -6,4 +6,4 @@ Mark: 13/13
 $> make fclean && make
 
 # Usage
-./serverJ2T3 [-h, --help] -g gravity -p port -m map
+$> ./serverJ2T3 [-h, --help] -g gravity -p port -m map
